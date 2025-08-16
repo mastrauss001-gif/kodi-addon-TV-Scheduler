@@ -16,7 +16,11 @@ The video that will play will be the one based on time. For example, if a 30 min
 The video will play completely and then will stop. You have to click the stream again to go to the next video. I would prefer continuous play to the next video but I am convinced that it is not possible to do this.
 
 Issue I'm facing:
-Everytime you change the channel, the next show will always start from the beginning of an episode. I am trying to make the TV experience so that if the next channel episode started at 2pm and I switch to it at 2:15, then it should start at the 15 minute mark when I jump to it. claude.ai has an issue with this. It has told me hundreds of things to try and they all fail so I am looking for anyone who might be able to contribute and figure this part out.
+> Everytime you change the channel, the next show will always start from the beginning of an episode. I am trying to make the TV experience so that if the next channel episode started at 2pm and I switch to it at 2:15, then it should start at the 15 minute mark when I jump to it. claude.ai has an issue with this. It has told me hundreds of things to try and they all fail so I am looking for anyone who might be able to contribute and figure this part out.
+
+Just install from zip like any other addon.
+
+Let me know if you've made progress so I can test it out.
 
 Thanks
 
